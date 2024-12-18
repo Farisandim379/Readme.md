@@ -32,8 +32,8 @@ This repository showcases my journey as a developer, learner, and innovator. Her
 
 ## 🌟 Get in Touch
 
-- **Instagram:** [fariis_andi][https://www.instagram.com/fariis_andi/]
-- **LinkedIn:** [Faris Andi Muhammad][https://www.linkedin.com/in/faris-andi-muhammad-5200ba2b9/]
-- **Email:** [farisandi458@gmail][farisandi458@gmail.com]
+- **Instagram:** [fariis_andi]https://www.instagram.com/fariis_andi/
+- **LinkedIn:** Faris Andi Muhammad][https://www.linkedin.com/in/faris-andi-muhammad-5200ba2b9/
+- **Email:** farisandi458@gmail][farisandi458@gmail.com
 
 Let’s connect and collaborate to create impactful technology solutions together! 🤝

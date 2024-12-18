@@ -7,7 +7,7 @@ This repository showcases my journey as a developer, learner, and innovator. Her
 ## ✨ Highlights
 
 - **🚀 Current Focus:**
-  - Building intelligent and automated systems like vacuum cleaning robots.
+  - Building intelligent and automated systems like smart conveyors with weight and ultrasonic sensors for item counting.
   - Exploring and creating with frontend technologies.
 
 - **📚 Learning and Sharing:**
@@ -21,7 +21,7 @@ This repository showcases my journey as a developer, learner, and innovator. Her
 ## 🗂 Repositories
 
 ### Projects
-- **Smart Vacuum Cleaner**: Autonomous cleaning robot built using ESP32, sensors, and motor controllers.
+- **Smart Conveyor**: Automated conveyor system equipped with weight and ultrasonic sensors to count items efficiently.
 - **Tech Campaigns**: Resources and materials for technology outreach programs.
 
 ### Tools & Utilities

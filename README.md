@@ -1,7 +1,7 @@
 # 🎁 Welcome to My GitHub Repository
 
 Hello there! 👋
-[my fav](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd244dXBiZDd1NjhmZmdnc3RwMTJiMXdiYXo4d2lnZzhzNW1jNGVyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iamIahPLWmo4tGiyDz/giphy.gif)
+[dark souls the best](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd244dXBiZDd1NjhmZmdnc3RwMTJiMXdiYXo4d2lnZzhzNW1jNGVyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iamIahPLWmo4tGiyDz/giphy.gif)
 This repository showcases my journey as a developer, learner, and innovator. Here, you'll find projects, collaborations, and experiments that reflect my passion for technology and continuous growth.
 
 ## ✨ Highlights
